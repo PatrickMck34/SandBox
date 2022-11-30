@@ -1,7 +1,10 @@
+import Showcase from "./Showcase.js"
+
 function App() {
   return (
     <div>
-      <h1>App Component</h1>
+      <h1>Showcase component</h1>
+      <Showcase/>
     </div>
   );
 }
